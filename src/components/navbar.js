@@ -1,10 +1,10 @@
 export default function NavBar() {
     return (
         <>
-        <div className='flex justify-between mx-14 my-4'>
-            <h2 className="text-2xl font-medium text-slate-800">Sushant Dhiman</h2>
+        <div className='flex justify-between mx-4 lg:mx-14 my-4'>
+            <h2 className="font-medium text-slate-800 text-xl mt-0.5 lg:text-2xl">Sushant Dhiman</h2>
             {/* Menu */}
-            <ul className="md:flex mt-1.5 text-base text-slate-700">
+            <ul className="hidden md:flex mt-1.5 text-base text-slate-700">
                 <li className='mr-6'><a href="/">About</a></li>
                 <li className='mr-6'><a href="/">Projects</a></li>
                 <li className='mr-6'><a href="/">Blog</a></li>
