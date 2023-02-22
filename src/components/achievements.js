@@ -1,7 +1,7 @@
 export default function Achievements() {
   return (
     <>
-      <div className="mt-16 pb-10 lg:w-1/2 lg:mt-0 lg:pb-20">
+      <div className="mt-16 pb-10 lg:w-1/2 lg:mt-0 lg:pb-20 lg:ml-40">
         <p className="text-xl font-medium">Achievements</p>
         <hr
           className="w-1/4 bg-yellow-400 rounded-md mt-2 lg:w-20"

@@ -5,7 +5,7 @@ export default function NavBar() {
             <h2 className="font-medium text-slate-800 text-xl mt-0.5 lg:text-2xl">Sushant Dhiman</h2>
             {/* Menu */}
             <ul className="hidden md:flex mt-1.5 text-base text-slate-700">
-                <li className='mr-6'><a href="/">About</a></li>
+                <li className='mr-6'><a href="#about-section">About</a></li>
                 <li className='mr-6'><a href="/">Projects</a></li>
                 <li className='mr-6'><a href="/">Blog</a></li>
                 <li className='mr-6'><a href="/">Contact</a></li>

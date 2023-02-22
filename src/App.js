@@ -9,7 +9,7 @@ function App() {
       <NavBar />
       <HeroSection />
 
-      <div className="mt-16 lg:flex mx-6 lg:mx-20 lg:mt-24">
+      <div className="mt-16 lg:flex mx-6 lg:mx-24 lg:mt-24" id="about-section">
         <About />
         <Achievements />
       </div>
