@@ -4,9 +4,9 @@ export default function About() {
       <div className="lg:w-1/2 mt-24 lg:mt-4">
         <p className="text-xl font-medium">About Me</p>
         <hr
-          className="w-1/6 bg-yellow-400 rounded-md mt-2"
+          className="w-1/6 bg-yellow-400 rounded-md mt-2 lg:w-12"
           style={{ height: "0.3rem" }}
-        ></hr>
+        />
 
         <p className="text-slate-800 text-sm mt-8 lg:w-10/12">
           I'm a 2nd year B.Tech Computer Science Engineering student at
