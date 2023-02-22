@@ -2,6 +2,7 @@ import NavBar from "./components/navbar";
 import HeroSection from "./components/hero-section";
 import About from "./components/about";
 import Achievements from "./components/achievements";
+import Skills from "./components/skills";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <About />
         <Achievements />
       </div>
+      <Skills />
     </>
   );
 }
